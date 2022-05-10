@@ -1,0 +1,16 @@
+Comandos básicos do Git e GitHub
+
+git init - inicializa um repositório em um diretório existente
+
+git clone - você clona um repositório do servidor (github) para o diretório local
+
+git status - verificar qual arquivo você está e se houve alguma alteração nesse arquivo
+
+git add. - adiciona todos os arquivos no controle de versão para que ele fique disponível para commit
+
+git commit -m "para adicionar mensagem" no commit
+
+git push orign main - envia todos os commits que temos localmente para nuvem
+
+
+
